@@ -1,0 +1,9 @@
+{
+    "name": "com.qmodules.composite-disposable",
+    "version": "0.1.0",
+    "displayName": "Composite Disposable",
+    "description": "A container in which several objects can be disposed of all at once.",
+    "keywords": [
+        "disposable"
+    ]
+}
