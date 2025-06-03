@@ -1,5 +1,13 @@
 # Use one IDisposable to dispose collection of IDisposable objects
 
+## Install via UPM (using Git URL) or use release package
+
+````
+https://github.com/Qofi26/unity.composite-disposable.git
+````
+
+## Example Usage
+
 ```csharp
     public class Element : IDisposable
     {
